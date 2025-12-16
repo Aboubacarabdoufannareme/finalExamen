@@ -1,9 +1,9 @@
 <?php
 // Database connection configuration
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'digiger');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_NAME', 'webtech_2025A_fannareme_abdou');
+define('DB_USER', 'fannareme.abdou');
+define('DB_PASS', 'fa889033');
 
 try {
     $pdo = new PDO(
