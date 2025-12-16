@@ -24,15 +24,15 @@ A comprehensive digital diploma and career management platform connecting studen
 ## Technology Stack
 
 - **Frontend**: HTML5, CSS3 (Modern dark theme with glassmorphism), JavaScript
-- **Backend**: PHP 7.4+
-- **Database**: MySQL 5.7+
+- **Backend**: PHP 
+- **Database**: MySQL 
 - **Authentication**: Session-based with password hashing
 
 ## Installation
 
 ### Prerequisites
-- PHP 7.4 or higher
-- MySQL 5.7 or higher
+- PHP  
+- MySQL 
 - Apache/Nginx web server
 - mod_rewrite enabled (for Apache)
 
